@@ -1,3 +1,2 @@
 # library_mgt_system
-#this project is use to manage library
- #prepared by Bosco
+This Library Management System is a user-friendly and efficient solution for managing the operations of a library. It simplifies the process of cataloging, tracking, and borrowing books by providing a well-structured database for storing book details, member information, and loan records. The system supports core features like adding new books, registering members, tracking borrowing and returning activities, and generating reports on overdue items. It is designed with both librarians and users in mind, ensuring smooth access and interaction with library resources.
